@@ -1,2 +1,2 @@
 # desafio-codenation
-Repositório para o desafio codenation de data science
+Desafio para ingresso no AceleraDev DataScience da Codenation
